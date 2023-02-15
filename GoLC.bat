@@ -1,0 +1,1 @@
+start /d "./windows_dist/main" main.exe
